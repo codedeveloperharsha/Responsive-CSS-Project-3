@@ -183,7 +183,7 @@ h1.elem{
     }
 
     #nav2{
-        background-color: rgb(189, 90, 90);
+     /* background-color: rgb(189, 90, 90); */
         height: 7vw;
         width: 100%;
         display: flex;
